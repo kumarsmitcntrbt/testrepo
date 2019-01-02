@@ -5,3 +5,5 @@ Infrastructure as code
 Quality software
 Continous Integration
 Cost Efficient
+Regular releases
+Enhanced Monitoring
